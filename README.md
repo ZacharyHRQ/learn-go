@@ -6,3 +6,5 @@ my journey as a newbie programmer into GO
 https://tour.golang.org/welcome/1
 
 https://golang.org/doc/effective_go
+
+https://github.com/diop/blockchain-programming-golang
