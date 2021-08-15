@@ -17,4 +17,4 @@ https://github.com/diop/blockchain-programming-golang
 
 https://courses.calhoun.io/courses/cor_gophercises
 
-ttps://medium.com/rungo/beginners-guide-to-serving-files-using-http-servers-in-go-4e542e628eac
+https://medium.com/rungo/beginners-guide-to-serving-files-using-http-servers-in-go-4e542e628eac
